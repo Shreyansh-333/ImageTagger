@@ -1,13 +1,12 @@
 # Image Captioning and Tagging with Google Gemini
-<p align="center">
   ![Alt text](/Images/Logo.png)
-</p>
+
 
 
 This Streamlit app enables you to perform image captioning and tag extraction using the Google Generative AI service. It utilizes Streamlit for the user interface and Google's Generative AI library for image analysis.
 
 ## Access the Web Version
-Explore the app [here]().
+Explore the app [here](https://image-caption-and-tagger.streamlit.app/).
 
 ## Features
 - Image Upload: Users can upload images in jpg, png, or jpeg formats.
