@@ -1,6 +1,6 @@
 # Image Captioning and Tagging with Google Gemini
 <p align="center">
-  ![Alt text](/Screenshots/Logo.png)
+  ![Alt text](/Images/Logo.png)
 </p>
 
 
